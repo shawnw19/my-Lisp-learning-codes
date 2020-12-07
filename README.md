@@ -1,3 +1,3 @@
-# Languages in Lisp-family
+# Languages in Lisp family
 
 Learning records.
