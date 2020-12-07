@@ -1,2 +1,3 @@
-# myScheme_learningCodes
-Scheme learning
+# Languages in Lisp-family
+
+Learning records.
